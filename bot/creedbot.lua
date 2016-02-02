@@ -216,7 +216,7 @@ function create_config( )
     "qr",
     "leave",
     "file",
-    "map"
+    "map",
     "Feedback",
     "plugins",
     "lock_join",
