@@ -209,7 +209,14 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
-    ".",
+    "quran",
+    "id",
+    "time",
+    "src",
+    "qr",
+    "leave",
+    "file",
+    "map"
     "Feedback",
     "plugins",
     "lock_join",
@@ -239,7 +246,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {139534999},--Sudo users
+    sudo_users = {179983320},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -247,13 +254,13 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by @Unkownhacker 
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @rm13790115   〰〰〰〰〰〰〰〰
+   ߔࠀ   @Unkownhacker 
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
-   !feedback (your ideas and messages)
+   !feedback (your ideas and messages) or @unkownabbasbot
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -455,7 +462,7 @@ Says every thing he knows about a group
 Changes or Makes new group link
 لینک گروه رو عوض میکنه 
 
-!getlink
+!link
 gets The Group link
 لینک گروه را در گروه نمایش میده
 
@@ -532,6 +539,19 @@ To tags the every one and sends your message at bottom
 تگ کردن همه ی اعضای گروه و نوشتن پیام شما زیرش
 
 〰〰〰〰〰〰〰〰〰
+6.quran
+!quran
+!read {num}
+!sura {num}
+~~~~~~~~~~~~~~~~~~
+7.other
+!Echo ***
+!calc ***
+!src ***
+!time ***
+!map ***
+!ids chat
+
 More plugins  soon ...
 ⚠️ We are Creeds ⚠️
 
